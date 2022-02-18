@@ -1,5 +1,5 @@
 #example-service-environment-with-a-focus-on-resilience
-Esse projeto faz parte de um estudo em que tem o foco na criação de arquitetura de microserviços tolerante a falhas, atravez desse repositorio iremos realizar teste, recebe metricas que validem as porposta descritas no artigo  do artigo " Uma taxonomia preliminar de padrões para o desenvolvimento de microsserviços tolerantes a falhas".
+Esse projeto faz parte de um estudo que tem como objetivo a criação de uma arquitetura de microsserviços tolerante a falhas. Testes foram executados para esse projeto para exemplificar as diretrizes propostas em um taxonomia preliminar.
 
 
 ### 📋 Pré-requisitos
